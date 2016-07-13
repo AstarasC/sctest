@@ -1,3 +1,3 @@
 Figures
 
-This is a testfor Figures
+This is a test for Figures
