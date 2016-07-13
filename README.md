@@ -1,0 +1,2 @@
+# sctest
+Software Carpentry Workshop
